@@ -49,7 +49,7 @@ This project is licensed under the BSD License - see the [LICENSE.md](https://gi
 
 ## Results
 
-![alt text](https://github.com/kskmar/ReSort-IT/blob/master/images/results.png)
+![alt text](https://github.com/kskmar/ReSort-IT/blob/master/images/)
 
 
 ### Setting up tf environment
